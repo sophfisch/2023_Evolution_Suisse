@@ -1,4 +1,6 @@
-# Engineering Pathogen-Resistant Crops using Directed Evolution
+# Engineering Pathogen-Resistant Crops using Directed Evolution 
+
+<img align="right" width="200" height="200" src="https://github.com/idec-teams/2023_Evolution_Suisse/assets/114056080/2ed6e0bd-e843-4a2d-91ce-3541aa8a1b22">
 
 We use directed evolution to disrupt interaction between pathogenic proteins and plants’ immune system.
 
